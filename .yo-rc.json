@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "helloworld",
+    "namespace": "com.compo.test.abapgit",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.112.3",
+    "author": "CO74344",
+    "initrepo": true,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.112.3",
+    "appId": "com.compo.test.abapgit.helloworld",
+    "appURI": "com/compo/test/abapgit/helloworld",
+    "setupCompleted": true
+  }
+}
